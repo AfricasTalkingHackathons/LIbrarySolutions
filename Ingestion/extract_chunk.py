@@ -50,7 +50,7 @@ from pathlib import Path
 from datetime import datetime
 from typing import Optional
 
-import fitz                          # PyMuPDF  — pip install PyMuPDF
+import fitz                          #   — pip install PyMuPDF
 from langchain_text_splitters import RecursiveCharacterTextSplitter  # pip install langchain-text-splitters
 
 # ──────────────────────────────────────────────────────────
