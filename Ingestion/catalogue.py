@@ -288,7 +288,7 @@ def export_to_csv(output_path: str = "./catalogue_export.csv"):
 
 
 # ══════════════════════════════════════════════════════════
-# SAMPLE DATA — run once to populate a demo catalogue
+# — run once to populate a demo catalogue
 # ══════════════════════════════════════════════════════════
 
 def seed_sample_catalogue():
